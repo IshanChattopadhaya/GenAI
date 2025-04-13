@@ -14,7 +14,7 @@ from langchain.docstore.document import Document
 CHROMA_DIR = "chroma_pipeline"
 RFP_PATH = "rfp.txt"
 REPO_DIR = "repo"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC7LGeldf_RC79PMJVq5TLLd2fN5aMA8Io"
+os.environ["GOOGLE_API_KEY"] = "<api-key>"
 os.makedirs(CHROMA_DIR, exist_ok=True)
 os.makedirs(REPO_DIR, exist_ok=True)
 
