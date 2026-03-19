@@ -16,5 +16,5 @@ venv/
 *.userosscache
 *.sln
 
-# Database / cache
+# Chroma/DB caches
 chroma_pipeline/chroma.sqlite3
