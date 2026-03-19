@@ -17,4 +17,4 @@ venv/
 *.sln
 
 # Chroma/DB caches
-chroma_pipeline/chroma.sqlite3
+chroma_pipeline/
